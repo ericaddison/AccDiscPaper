@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Measuring_Accretion_Impact_Radii.aux
+The style file: apj.bst
+Database file #1: masterRefs.bib
+Warning--entry type for "SCG" isn't style-file defined
+--line 373 of file masterRefs.bib
+Warning--entry type for "NelemansWiki" isn't style-file defined
+--line 446 of file masterRefs.bib
+Warning--entry type for "SGOmid" isn't style-file defined
+--line 699 of file masterRefs.bib
+Warning--entry type for "SGOhi" isn't style-file defined
+--line 707 of file masterRefs.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in TPF
+You've used 50 entries,
+            3085 wiz_defined-function locations,
+            1001 strings with 14925 characters,
+and the built_in function-call counts, 23022 in all, are:
+= -- 1883
+> -- 1636
+< -- 28
++ -- 549
+- -- 564
+* -- 1921
+:= -- 4392
+add.period$ -- 50
+call.type$ -- 50
+change.case$ -- 317
+chr.to.int$ -- 47
+cite$ -- 51
+duplicate$ -- 916
+empty$ -- 1412
+format.name$ -- 641
+if$ -- 4555
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 44
+newline$ -- 154
+num.names$ -- 200
+pop$ -- 328
+preamble$ -- 1
+purify$ -- 314
+quote$ -- 0
+skip$ -- 780
+stack$ -- 0
+substring$ -- 1043
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 447
+warning$ -- 1
+while$ -- 187
+width$ -- 0
+write$ -- 501
+(There were 5 warnings)
